@@ -1,0 +1,6 @@
+[submodule "libftdi"]
+	path = libftdi
+	url = git://developer.intra2net.com/libftdi
+[submodule "libusb"]
+	path = libusb
+	url = git@github.com:libusb/libusb.git
